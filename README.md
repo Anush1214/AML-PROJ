@@ -22,7 +22,7 @@ It is built using **Python, Jupyter Notebooks, Gradio**, and **SQLite** to provi
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/your-username/AML-PROJ-main.git
+   git clone https://github.com/Anush1214/AML-PROJ-main.git
    cd AML-PROJ-main
    ```
 
