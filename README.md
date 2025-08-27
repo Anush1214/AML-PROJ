@@ -74,8 +74,9 @@ AML-PROJ-main/
 
 ---
 
-## 📸 Demo (Optional)  
-  
+## 📸 Demo
+  <img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/f2ae7cfa-0e2e-4669-b762-25ea4000f79b" />
+
 
 ---
 
